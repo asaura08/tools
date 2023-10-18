@@ -2,4 +2,4 @@
 
 ## By language
 
-### [Python](python/readme.md)
+### [Python](python/)
